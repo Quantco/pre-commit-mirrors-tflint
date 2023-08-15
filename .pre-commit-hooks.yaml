@@ -1,0 +1,8 @@
+- id: tflint-conda
+  name: tflint-conda
+  description: This hook runs tflint.
+  entry: tflint
+  language: conda
+  files: (\.tf|\.tfvars)$
+  exclude: \.terraform\/.*$
+  always_run: true
