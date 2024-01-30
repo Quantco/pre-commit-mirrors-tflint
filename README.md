@@ -4,7 +4,7 @@ Mirror of tflint for pre-commit with conda as a language.
 
 For pre-commit: see [here](https://github.com/pre-commit/pre-commit)
 
-For ansible-lint: see [here](https://github.com/terraform-linters/tflint)
+For tflint: see [here](https://github.com/terraform-linters/tflint)
 
 ## Using tflint with pre-commit and conda:
 
